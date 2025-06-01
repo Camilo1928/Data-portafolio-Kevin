@@ -24,7 +24,9 @@
 
 ## 📄 Sobre mí
 
-📍 Bogotá, Colombia  
+## 👨‍💻 Autor
+
+Kevin Rodríguez  
 📧 kevincamilorr@gmail.com  
-🌐 [LinkedIn]([https://linkedin.com/in/datacamilorivera]) 
-📄 [Ver mi CV](./KevinRodriguez_CV.pdf)
+🌐 [LinkedIn](https://www.linkedin.com/in/datacamilorivera/)  
+📄 [Ver mi CV](../KevinRodriguez_CV.pdf)
