@@ -29,6 +29,6 @@
 Kevin Rodríguez  
 📧 kevincamilorr@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/datacamilorivera/)  
-📄 [Ver mi Hoja de Vida](KevinRodriguez_CV.pdf)
+📄 [Ver mi Hoja de Vida en Google Drive](https://drive.google.com/file/d/1mc6BImmbf6f2xTJFMbpyYHkPWAf_wHcE/view?usp=sharing)
 
 
