@@ -26,5 +26,5 @@
 
 📍 Bogotá, Colombia  
 📧 kevincamilorr@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/datacamilorivera) 
+🌐 [LinkedIn]([https://linkedin.com/in/datacamilorivera]) 
 📄 [Ver mi CV](./KevinRodriguez_CV.pdf)
